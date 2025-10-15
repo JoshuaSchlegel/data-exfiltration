@@ -88,9 +88,9 @@ An employee, working in a sensitive department, was recently placed on a perform
 ---
 
 ### 🧑‍💻 **Next Steps**  
-1. Monitor John’s account activity for unusual access or privilege escalation.  
+1. Monitor the employee's account activity for unusual access or privilege escalation.  
 2. Implement DLP (Data Loss Prevention) measures to alert on potential data exfiltration.  
-3. Escalate findings to management and recommend a follow-up review of John's device for additional forensic artifacts.  
+3. Escalate findings to management and recommend a follow-up review of the employee's device for additional forensic artifacts.  
 
 ---
 
